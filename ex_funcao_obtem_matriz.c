@@ -1,4 +1,4 @@
-// ex_alocacao_estatica.c
+// ex_funcao_obtem_matriz.c
 
 #include <stdio.h>
 #include <stdlib.h>

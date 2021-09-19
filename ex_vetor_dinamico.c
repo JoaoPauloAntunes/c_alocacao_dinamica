@@ -1,4 +1,4 @@
-// ex_alocacao_estatica.c
+// ex_vetor_dinamico.c
 
 #include <stdio.h>
 #include <stdlib.h>
